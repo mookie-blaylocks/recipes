@@ -1,0 +1,260 @@
+{
+    "dinner" : {
+	"Mushroom Bourguignon" : {
+	    "vegetarian" : true,
+	    "source" : "Smitten Kitchen",
+	    "page" : "https://smittenkitchen.com/2009/01/mushroom-bourguignon/",
+	    "webpage" : true,
+	    "ingredients" : {
+		"Olive Oil" : {
+		    "quantity" : 2,
+		    "measurement" : "T"
+		},
+		"Butter" : {
+		    "quantity" : 2,
+		    "measurement" : "T"
+		},
+		"Portobello Mushroom" : {
+		    "quantity" : 2,
+		    "measurement" : "lb"
+		},
+		"Carrot" : {
+		    "quantity" : 0.5,
+		    "measurement" : "ct"
+		},
+		"Yellow Onion" : {
+		    "quantity" : 1,
+		    "measurement" : "ct"
+		},
+		"Garlic" : {
+		    "quantity" : 2,
+		    "measurement" : "ct"
+		},
+		"Red Wine" : {
+		    "quantity" : 1,
+		    "measurement" : "c"
+		},
+		"Broth" : {
+		    "quantity" : 2,
+		    "measurement" : "c"
+		},
+		"Tomato Paste" : {
+		    "quantity" : 2,
+		    "measurement" : "T"
+		},
+		"Thyme" : {
+		    "quantity" : 1,
+		    "measurement" : "t"
+		},
+		"All-Purpose Flour" : {
+		    "quantity" : 1.5,
+		    "measurement" : "T"
+		},
+		"Pearl Onion" : {
+		    "quantity" : 1,
+		    "measurement" : "c"
+		},
+		"Egg Noodles" : {
+		    "quantity" : 1,
+		    "measurement" : "pkg"
+		},
+		"Sour Cream" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Chives" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		}
+	    }
+	},
+	"Red Bean and Green Grain Taco Bowl" : {
+	    "vegetarian" : true,
+	    "source" : "Smitten Kitchen",
+	    "page" : "https://smittenkitchen.com/2015/03/red-bean-and-green-grain-taco-bowl/",
+	    "webpage" : true,
+	    "ingredients" : {
+		"Poblano Chili Peppers" : {
+		    "quantity" : 2,
+		    "measurement" : "ct"
+		},
+		"Cilantro" : {
+		    "quantity" : 1,
+		    "measurement" : "c"
+		},
+		"White Onion" : {
+		    "quantity" : 0.75,
+		    "measurement" : "ct"
+		},
+		"Garlic" : {
+		    "quantity" : 2,
+		    "measurement" : "ct"
+		},
+		"Broth" : {
+		    "quantity" : 3,
+		    "measurement" : "c"
+		},
+		"Wheatberries" : {
+		    "quantity" : 1,
+		    "measurement" : "c"
+		},
+		"Olive Oil" : {
+		    "quantity" : 1,
+		    "measurement" : "T"
+		},
+		"Garlic" : {
+		    "quantity" : 1,
+		    "measurement" : "ct"
+		},
+		"Chipotle Pepper" : {
+		    "quantity" : 1,
+		    "measurement" : "ct"
+		},
+		"Cumin" : {
+		    "quantity" : 1,
+		    "measurement" : "t"
+		},
+		"Oregano" : {
+		    "quantity" : 0.5,
+		    "measurement" : "t"
+		},
+		"Tomato Paste" : {
+		    "quantity" : 1.5,
+		    "measurement" : "T"
+		},
+		"Broth" : {
+		    "quantity" : 0.5,
+		    "measurement" : "c"
+		},
+		"Red Beans" : {
+		    "quantity" : 1.75,
+		    "measurement" : "c"
+		},
+		"Red or White Onion" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Lime" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Pickled Jalepeno" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Sour Cream" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Avocado" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Cheese" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		},
+		"Tortilla Chips" : {
+		    "quantity" : 1,
+		    "measurement" : "garnish"
+		}
+	    }
+	}
+    },
+    "breakfast" : {
+	"Essential Raised Waffles" : {
+	    "vegetarian" : true,
+	    "source" : "Smitten Kitchen",
+	    "page" : "https://smittenkitchen.com/2013/05/essential-raised-waffles/",
+	    "webpage" : true,
+	    "ingredients" : {
+		"Yeast" : {
+		    "quantity" : 1,
+		"measurement" : "ct"
+		},
+		"Milk" : {
+		    "quantity" : 2,
+		"measurement" : "c"
+		},
+		"Butter" : {
+		    "quantity" : 8,
+		"measurement" : "T"
+		},
+		"Salt" : {
+		    "quantity" : 1,
+		"measurement" : "t"
+		},
+		"Sugar" : {
+		    "quantity" : 1,
+		"measurement" : "t"
+		},
+		"All-Purpose Flour" : {
+		    "quantity" : 2,
+		"measurement" : "c"
+		},
+		"Eggs" : {
+		    "quantity" : 2,
+		"measurement" : "ct"
+		},
+		"Baking Soda" : {
+		    "quantity" : 0.25,
+		"measurement" : "t"
+		},
+		"Maple Syrup" : {
+		    "quantity" : 1,
+		"measurement" : "garnish"
+		},
+		"Berries" : {
+		    "quantity" : 1,
+		"measurement" : "garnish"
+		}
+	    }
+	}
+    },
+    "dessert" : {
+	"Cook's Illustrated Blondies" : {
+	    "vegetarian" : true,
+	    "source" : "Food52",
+	    "page" : "https://food52.com/recipes/28573-cook-s-illustrated-s-blondies",
+	    "webpage" : true,
+	    "ingredients" : {
+		"Pecans or Walnuts" : {
+		    "quantity" : 1,
+		    "measurement" : "c"
+		},
+		"All-Purpose Flour" : {
+		    "quantity" : 1.5,
+		    "measurement" : "c"
+		},
+		"Baking Powder" : {
+		    "quantity" : 1,
+		    "measurement" : "t"
+		},
+		"Salt" : {
+		    "quantity" : 0.5,
+		    "measurement" : "t"
+		},
+		"Butter" : {
+		    "quantity" : 12,
+		    "measurement" : "T"
+		},
+		"Brown Sugar" : {
+		    "quantity" : 1.5,
+		    "measurement" : "c"
+		},
+		"Eggs" : {
+		    "quantity" : 2,
+		    "measurement" : "ct"
+		},
+		"Vanilla" : {
+		    "quantity" : 4,
+		    "measurement" : "t"
+		},
+		"White Chocolate Chips" : {
+		    "quantity" : 6,
+		    "measurement" : "oz"
+		}
+	    }
+	}
+    }
+}
